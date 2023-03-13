@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>510605352841-l1385v5omjaq8sv5gv0paa0sk7c4j0nl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.510605352841-l1385v5omjaq8sv5gv0paa0sk7c4j0nl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>510605352841-sg9o1o2d4kpuhvourr31lv9n51tlklbl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAESQK9UL4jTODV-ya7vS73eT2ILmHTeSE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>510605352841</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vocsy.musicpro</string>
+	<key>PROJECT_ID</key>
+	<string>musicplayer-c4935</string>
+	<key>STORAGE_BUCKET</key>
+	<string>musicplayer-c4935.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:510605352841:ios:16fa2f8c4773a1535ccb58</string>
+</dict>
+</plist>

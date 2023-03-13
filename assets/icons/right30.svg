@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_4263" data-name="Group 4263" transform="translate(0 -9105)">
+    <rect id="Rectangle_659" data-name="Rectangle 659" width="50" height="50" transform="translate(0 9105)" fill="none"/>
+    <g id="avance30" transform="translate(3.934 9094.229)">
+      <path id="Trazado" d="M19.747,16A19.771,19.771,0,0,1,39.241,32.476l.5-.745a1.32,1.32,0,0,1,2.188,1.476l-2.636,3.954a1.319,1.319,0,0,1-.962.587H38.2a1.315,1.315,0,0,1-.929-.389l-3.3-3.3A1.319,1.319,0,0,1,35.841,32.2l.817.824A17.135,17.135,0,1,0,19.747,52.906a16.219,16.219,0,0,0,13.424-6.7,1.318,1.318,0,1,1,2.148,1.529,18.829,18.829,0,0,1-15.573,7.8,19.771,19.771,0,1,1,0-39.542Z"/>
+      <text id="_30" data-name="30" transform="translate(11.051 41.533)" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">30</tspan></text>
+    </g>
+  </g>
+</svg>

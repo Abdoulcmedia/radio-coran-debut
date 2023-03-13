@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "510605352841",
+    "project_id": "musicplayer-c4935",
+    "storage_bucket": "musicplayer-c4935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510605352841:android:7a885d2070195d6b5ccb58",
+        "android_client_info": {
+          "package_name": "com.vocsy.musicpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510605352841-sg9o1o2d4kpuhvourr31lv9n51tlklbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.musicpro",
+            "certificate_hash": "f208214ca516b25c58d59667140caf9840a76298"
+          }
+        },
+        {
+          "client_id": "510605352841-sji17vc0fq4il8jt8f60fbnnhvlm75hq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.musicpro",
+            "certificate_hash": "a1c48fbed866a41f3a035f7890b6652fc104050e"
+          }
+        },
+        {
+          "client_id": "510605352841-go6k075pogccn4n90ivulnpv1klqkhg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcUFcCPmQvfKdOI6HTCEhbhNyr_a4LbRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510605352841-go6k075pogccn4n90ivulnpv1klqkhg7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510605352841-l1385v5omjaq8sv5gv0paa0sk7c4j0nl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vocsy.musicpro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
